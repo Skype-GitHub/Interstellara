@@ -1,5 +1,5 @@
 on:
-interstellara
+ workflow_dispatch:
 
 jobs:
   publish_image:
